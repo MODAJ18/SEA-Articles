@@ -1,0 +1,722 @@
+ .u-section-1 {
+  background-image: linear-gradient(#478ac9, #2cccc4);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 885px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  transition-duration: 0.25s;
+  margin: 60px auto 0 -122px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 40px;
+  height: 40px;
+  transition-duration: 0.25s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -52px -92px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 94px;
+  height: 94px;
+  transition-duration: 0.25s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -77px auto 0 351px;
+}
+
+.u-section-1 .u-icon-4 {
+  width: 70px;
+  height: 70px;
+  transition-duration: 0.25s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -48px 238px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-5 {
+  width: 52px;
+  height: 52px;
+  transition-duration: 0.25s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -138px 493px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-6 {
+  width: 33px;
+  height: 33px;
+  transition-duration: 0.25s;
+  margin: -30px auto 0 151px;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-7 {
+  width: 28px;
+  height: 28px;
+  transition-duration: 0.25s;
+  margin: 161px 59px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-style: normal;
+  margin: -64px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  width: 858px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 25px auto 0;
+}
+
+.u-section-1 .u-icon-8 {
+  width: 40px;
+  height: 40px;
+  transition-duration: 0.25s;
+  margin: -72px auto 0 -78px;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-9 {
+  width: 60px;
+  height: 60px;
+  transition-duration: 0.25s;
+  margin: -40px -137px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-search-1 {
+  height: auto;
+  width: 665px;
+  min-height: 62px;
+  background-image: linear-gradient(#e9f2fa, #eafdfc);
+  margin: 58px auto 0;
+}
+
+.u-section-1 .u-search-input-1 {
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-icon-10 {
+  width: 72px;
+  height: 72px;
+  transition-duration: 0.25s;
+  margin: 8px -124px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-11 {
+  width: 51px;
+  height: 51px;
+  transition-duration: 0.25s;
+  margin: -103px auto 0 -173px;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-12 {
+  width: 57px;
+  height: 57px;
+  transition-duration: 0.25s;
+  margin: -97px auto 0 70px;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-13 {
+  width: 92px;
+  height: 92px;
+  transition-duration: 0.25s;
+  margin: 181px auto 0 -150px;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-14 {
+  width: 40px;
+  height: 40px;
+  transition-duration: 0.25s;
+  margin: -66px -92px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-15 {
+  width: 64px;
+  height: 64px;
+  transition-duration: 0.25s;
+  margin: -125px auto 0 167px;
+}
+
+.u-section-1 .u-icon-16 {
+  width: 42px;
+  height: 42px;
+  transition-duration: 0.25s;
+  margin: -89px 493px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-17 {
+  width: 70px;
+  height: 70px;
+  transition-duration: 0.25s;
+  margin: 14px 210px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-18 {
+  width: 52px;
+  height: 52px;
+  transition-duration: 0.25s;
+  margin: 0 500px 60px auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-icon-3 {
+    margin-top: -98px;
+    margin-left: 290px;
+    padding: 0;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-top: -18px;
+  }
+
+  .u-section-1 .u-icon-5 {
+    margin-right: 406px;
+  }
+
+  .u-section-1 .u-icon-6 {
+    margin-top: -35px;
+  }
+
+  .u-section-1 .u-icon-7 {
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -32px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 13px;
+    margin-left: 267px;
+  }
+
+  .u-section-1 .u-icon-11 {
+    margin-top: -42px;
+  }
+
+  .u-section-1 .u-icon-12 {
+    margin-top: -119px;
+  }
+
+  .u-section-1 .u-icon-13 {
+    margin-top: 150px;
+  }
+
+  .u-section-1 .u-icon-16 {
+    margin-right: 406px;
+  }
+
+  .u-section-1 .u-icon-18 {
+    margin-right: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-icon-3 {
+    margin-left: 222px;
+  }
+
+  .u-section-1 .u-icon-5 {
+    margin-right: 311px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+    margin-left: 205px;
+  }
+
+  .u-section-1 .u-icon-16 {
+    margin-right: 311px;
+  }
+
+  .u-section-1 .u-icon-18 {
+    margin-right: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-icon-3 {
+    margin-left: 167px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-right: 179px;
+  }
+
+  .u-section-1 .u-icon-5 {
+    margin-right: 233px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+    margin-left: 154px;
+  }
+
+  .u-section-1 .u-search-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-icon-16 {
+    margin-right: 233px;
+  }
+
+  .u-section-1 .u-icon-17 {
+    margin-right: 158px;
+  }
+
+  .u-section-1 .u-icon-18 {
+    margin-right: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-icon-1 {
+    margin-top: 136px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    margin-top: 9px;
+    margin-left: 105px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-right: 113px;
+  }
+
+  .u-section-1 .u-icon-5 {
+    margin-right: 147px;
+  }
+
+  .u-section-1 .u-icon-6 {
+    margin-top: -95px;
+    margin-left: 95px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -79px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    margin-left: 97px;
+  }
+
+  .u-section-1 .u-search-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-icon-10 {
+    margin-top: 39px;
+  }
+
+  .u-section-1 .u-icon-11 {
+    margin-top: -86px;
+  }
+
+  .u-section-1 .u-icon-12 {
+    margin-top: -135px;
+  }
+
+  .u-section-1 .u-icon-13 {
+    margin-top: 210px;
+  }
+
+  .u-section-1 .u-icon-15 {
+    margin-left: 105px;
+  }
+
+  .u-section-1 .u-icon-16 {
+    margin-right: 147px;
+  }
+
+  .u-section-1 .u-icon-17 {
+    margin-right: 99px;
+  }
+
+  .u-section-1 .u-icon-18 {
+    margin-right: 149px;
+    margin-bottom: 0;
+  }
+}
+
+.u-section-1 .u-text-1,
+.u-section-1 .u-text-1:before,
+.u-section-1 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-text-1.u-text-1.u-text-1:hover {
+  text-decoration: none !important;
+  font-style: normal !important;
+  transform: scale(1.1) translateX(0px) !important;
+}
+
+.u-section-1 .u-text-1.u-text-1.u-text-1.hover {
+  text-decoration: none !important;
+  font-style: normal !important;
+  transform: scale(1.1) translateX(0px) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-text-2,
+.u-section-1 .u-text-2:before,
+.u-section-1 .u-text-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-text-2.u-text-2.u-text-2:hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-text-2.u-text-2.u-text-2.hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-icon-3,
+.u-section-1 .u-icon-3:before,
+.u-section-1 .u-icon-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-3.u-icon-3.u-icon-3:hover {
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-3.u-icon-3.u-icon-3.hover {
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-icon-2,
+.u-section-1 .u-icon-2:before,
+.u-section-1 .u-icon-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-2.u-icon-2.u-icon-2:hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-2.u-icon-2.u-icon-2.hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-icon-4,
+.u-section-1 .u-icon-4:before,
+.u-section-1 .u-icon-4 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-4.u-icon-4.u-icon-4:hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-4.u-icon-4.u-icon-4.hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-4 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-4 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-icon-5,
+.u-section-1 .u-icon-5:before,
+.u-section-1 .u-icon-5 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-5.u-icon-5.u-icon-5:hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-5.u-icon-5.u-icon-5.hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-5 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-5 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-icon-9,
+.u-section-1 .u-icon-9:before,
+.u-section-1 .u-icon-9 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-9.u-icon-9.u-icon-9:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-9.u-icon-9.u-icon-9.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-10,
+.u-section-1 .u-icon-10:before,
+.u-section-1 .u-icon-10 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-10.u-icon-10.u-icon-10:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-10.u-icon-10.u-icon-10.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-14,
+.u-section-1 .u-icon-14:before,
+.u-section-1 .u-icon-14 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-14.u-icon-14.u-icon-14:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-14.u-icon-14.u-icon-14.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-17,
+.u-section-1 .u-icon-17:before,
+.u-section-1 .u-icon-17 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-17.u-icon-17.u-icon-17:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-17.u-icon-17.u-icon-17.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-16,
+.u-section-1 .u-icon-16:before,
+.u-section-1 .u-icon-16 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-16.u-icon-16.u-icon-16:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-16.u-icon-16.u-icon-16.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-18,
+.u-section-1 .u-icon-18:before,
+.u-section-1 .u-icon-18 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-18.u-icon-18.u-icon-18:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-18.u-icon-18.u-icon-18.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-6,
+.u-section-1 .u-icon-6:before,
+.u-section-1 .u-icon-6 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-6.u-icon-6.u-icon-6:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-6.u-icon-6.u-icon-6.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-1,
+.u-section-1 .u-icon-1:before,
+.u-section-1 .u-icon-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-1.u-icon-1.u-icon-1:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-1.u-icon-1.u-icon-1.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-8,
+.u-section-1 .u-icon-8:before,
+.u-section-1 .u-icon-8 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-8.u-icon-8.u-icon-8:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-8.u-icon-8.u-icon-8.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-11,
+.u-section-1 .u-icon-11:before,
+.u-section-1 .u-icon-11 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-11.u-icon-11.u-icon-11:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-11.u-icon-11.u-icon-11.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-13,
+.u-section-1 .u-icon-13:before,
+.u-section-1 .u-icon-13 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-13.u-icon-13.u-icon-13:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-13.u-icon-13.u-icon-13.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-15,
+.u-section-1 .u-icon-15:before,
+.u-section-1 .u-icon-15 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-15.u-icon-15.u-icon-15:hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-15.u-icon-15.u-icon-15.hover {
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-7,
+.u-section-1 .u-icon-7:before,
+.u-section-1 .u-icon-7 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-7.u-icon-7.u-icon-7:hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-7.u-icon-7.u-icon-7.hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-7 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-7 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-icon-12,
+.u-section-1 .u-icon-12:before,
+.u-section-1 .u-icon-12 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-icon-12.u-icon-12.u-icon-12:hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-icon-12.u-icon-12.u-icon-12.hover {
+  transform: scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 0.65 !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-12 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-12 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}

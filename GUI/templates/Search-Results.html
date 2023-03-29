@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Search Results</title>
+
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}"> -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='nicepage.css') }}" media="screen">
+<link rel="stylesheet" href="{{ url_for('static', filename='Search-Results.css') }}" media="screen">
+    <script class="u-script" type="text/javascript" src="{{ url_for('static', filename='jquery.js') }}" defer=""></script>
+    <script class="u-script" type="text/javascript" src="{{ url_for('static', filename='nicepage.js') }}" defer=""></script>
+
+
+
+    <meta name="generator" content="Nicepage 4.18.5, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Article Search",
+		"logo": "images/search-icon.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Search Results">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-grey-5 u-header u-header" id="sec-b577"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="512" data-image-height="500">
+          <img src="{{ url_for('static', filename='images/search-icon.png') }}" class="u-logo-image u-logo-image-1">
+        </a>
+        <img class="u-image u-image-contain u-image-default u-image-2" src="{{ url_for('static', filename='images/search_name_logo.png') }}" alt="" data-image-width="912" data-image-height="187">
+      </div></header> 
+    <section class="u-clearfix u-gradient u-section-1" id="sec-cd75">
+      <div class="u-clearfix u-sheet u-sheet-1"><span class="u-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 53 53" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-7b26"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 53 53" x="0px" y="0px" id="svg-7b26" style="enable-background:new 0 0 53 53;"><rect x="27" y="28" style="fill:#424A60;" width="2" height="18"></rect><rect x="37.5" y="2.893" transform="matrix(0.7071 0.7071 -0.7071 0.7071 20.8223 -23.2696)" style="fill:#424A60;" width="2" height="21.213"></rect><rect x="15" y="21.858" transform="matrix(0.7071 0.7071 -0.7071 0.7071 30.1421 -0.7696)" style="fill:#424A60;" width="2" height="28.284"></rect><rect x="10.722" y="13.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 15.6716 -8.8345)" style="fill:#424A60;" width="15.556" height="2"></rect><rect x="26.893" y="32.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 34.6716 -16.7046)" style="fill:#424A60;" width="21.213" height="2"></rect><circle style="fill:#43B05C;" cx="48" cy="5" r="5"></circle><circle style="fill:#7383BF;" cx="28" cy="48" r="5"></circle><circle style="fill:#57D8AB;" cx="5" cy="46" r="5"></circle><circle style="fill:#D75A4A;" cx="12" cy="8" r="3"></circle><circle style="fill:#EBBA16;" cx="44" cy="40" r="3"></circle><circle style="fill:#4B6DAA;" cx="28" cy="24" r="7"></circle></svg></span>
+        <h5 class="u-align-left u-custom-font u-font-ubuntu u-hover-feature u-text u-text-white u-text-1">Searching for word&nbsp;</h5>
+        
+        {% for title in titles %}
+        <a href="{{ urls[loop.index0] }}">
+        <div class="u-layout-grid u-list u-list-1">
+          <div class="u-repeater u-repeater-1">
+            <div class="u-align-left u-container-style u-list-item u-repeater-item u-shape-rectangle">
+              <div class="u-container-layout u-similar-container u-container-layout-1">
+                <div class="u-container-style u-expanded-width u-group u-hover-feature u-palette-1-dark-1 u-radius-10 u-shape-round u-group-1">
+                  <div class="u-container-layout u-container-layout-2">
+                    <h5 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-2">{{ title }}</h5>
+                    <br>
+                    <p class="u-text u-text-default u-text-3">{{ texts[loop.index0][:100] }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </a>
+        {% endfor %}
+      
+      
+      
+      
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-palette-5-dark-2 u-footer" id="sec-595c"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1"> Copyright @ SHAI co.</p>
+      </div></footer>
+  
+</body></html>

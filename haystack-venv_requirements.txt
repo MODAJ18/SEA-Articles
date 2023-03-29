@@ -1,0 +1,9 @@
+farm-haystack -f https://download.pytorch.org/whl/torch_stable.html
+
+camel-tools -f https://download.pytorch.org/whl/torch_stable.html
+# then write in CMD --> "camel_data light"
+
+Flask
+nltk
+sparse_dot_topn 
+

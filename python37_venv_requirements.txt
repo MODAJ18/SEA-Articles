@@ -1,0 +1,22 @@
+# PYTHON 3.7 REQUIRED
+
+nmslib
+
+# HAYSTACK
+# 1- git clone https://github.com/CAMeL-Lab/camel_tools.git
+# 2- cd camel_tools
+# 3- pip install -f https://download.pytorch.org/whl/torch_stable.html .
+# 4- pip install --upgrade -f https://download.pytorch.org/whl/torch_stable.html .
+# 5- then write in CMD --> "camel_data light"
+
+# SPACY
+# 1- pip install -U spacy
+# 2- python -m spacy download en_core_web_sm
+# 3- python -m spacy download xx_sent_ud_sm
+
+Flask
+nltk
+sparse_dot_topn 
+gensim
+rank_bm25
+ipykernel
